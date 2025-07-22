@@ -65,7 +65,8 @@ ps1523-stm32-f446re-project/
 │   └── Src/              # Source files
 ├── Drivers/              # HAL and CMSIS drivers
 ├── .project              # IDE project file
-└── README.md             # You’re reading it!
+└── README.md             # You’re reading it!         
+         # You’re reading it!
 📣 Future Plans
 🧪 Sensor integration (SGP30, AM2320)
 
