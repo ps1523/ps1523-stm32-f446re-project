@@ -59,13 +59,13 @@ Lay groundwork for IoT applications (e.g., environmental monitoring)
 Practice modular and maintainable embedded development
 
 📁 Folder Structure
-ps1523-stm32-f446re-project/
+/*ps1523-stm32-f446re-project/
 ├── Core/                 # Main application code
 │   ├── Inc/              # Header files
 │   └── Src/              # Source files
 ├── Drivers/              # HAL and CMSIS drivers
 ├── .project              # IDE project file
-└── README.md             # You’re reading it!         
+└── README.md             # You’re reading it! */      
          # You’re reading it!
 📣 Future Plans
 🧪 Sensor integration (SGP30, AM2320)
